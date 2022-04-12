@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/MonoPosixHelper.cpp"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/Users/clavie/Desktop/code/unity/export/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
